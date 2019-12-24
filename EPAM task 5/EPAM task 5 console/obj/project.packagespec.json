@@ -1,0 +1,53 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/Users/evilsquirrel/RiderProjects/EPAM task 5/EPAM task 5 console/EPAM task 5 console.csproj",
+    "projectName": "EPAM task 5 console",
+    "projectPath": "/Users/evilsquirrel/RiderProjects/EPAM task 5/EPAM task 5 console/EPAM task 5 console.csproj",
+    "outputPath": "/Users/evilsquirrel/RiderProjects/EPAM task 5/EPAM task 5 console/obj/",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp3.0"
+    ],
+    "sources": {
+      "https://api.nuget.org/v3/index.json": {}
+    },
+    "frameworks": {
+      "netcoreapp3.0": {
+        "projectReferences": {
+          "/Users/evilsquirrel/RiderProjects/EPAM task 5/EPAM task 5/EPAM task 5.csproj": {
+            "projectPath": "/Users/evilsquirrel/RiderProjects/EPAM task 5/EPAM task 5/EPAM task 5.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp3.0": {
+      "dependencies": {
+        "MySql.Data": {
+          "target": "Package",
+          "version": "[8.0.18, )"
+        }
+      },
+      "imports": [
+        "net461",
+        "net462",
+        "net47",
+        "net471",
+        "net472",
+        "net48"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

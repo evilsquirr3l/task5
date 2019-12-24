@@ -1,0 +1,43 @@
+/Users/evilsquirrel/RiderProjects/EPAM task 5/EPAM task 5 console/bin/Debug/netcoreapp3.0/EPAM task 5 console
+/Users/evilsquirrel/RiderProjects/EPAM task 5/EPAM task 5 console/bin/Debug/netcoreapp3.0/EPAM task 5 console.deps.json
+/Users/evilsquirrel/RiderProjects/EPAM task 5/EPAM task 5 console/bin/Debug/netcoreapp3.0/EPAM task 5 console.runtimeconfig.json
+/Users/evilsquirrel/RiderProjects/EPAM task 5/EPAM task 5 console/bin/Debug/netcoreapp3.0/EPAM task 5 console.runtimeconfig.dev.json
+/Users/evilsquirrel/RiderProjects/EPAM task 5/EPAM task 5 console/bin/Debug/netcoreapp3.0/EPAM task 5 console.dll
+/Users/evilsquirrel/RiderProjects/EPAM task 5/EPAM task 5 console/bin/Debug/netcoreapp3.0/EPAM task 5 console.pdb
+/Users/evilsquirrel/RiderProjects/EPAM task 5/EPAM task 5 console/obj/Debug/netcoreapp3.0/EPAM task 5 console.csprojAssemblyReference.cache
+/Users/evilsquirrel/RiderProjects/EPAM task 5/EPAM task 5 console/obj/Debug/netcoreapp3.0/EPAM task 5 console.AssemblyInfoInputs.cache
+/Users/evilsquirrel/RiderProjects/EPAM task 5/EPAM task 5 console/obj/Debug/netcoreapp3.0/EPAM task 5 console.AssemblyInfo.cs
+/Users/evilsquirrel/RiderProjects/EPAM task 5/EPAM task 5 console/obj/Debug/netcoreapp3.0/EPAM task 5 console.dll
+/Users/evilsquirrel/RiderProjects/EPAM task 5/EPAM task 5 console/obj/Debug/netcoreapp3.0/EPAM task 5 console.pdb
+/Users/evilsquirrel/RiderProjects/EPAM task 5/EPAM task 5 console/bin/Debug/netcoreapp3.0/EPAM task 5.dll
+/Users/evilsquirrel/RiderProjects/EPAM task 5/EPAM task 5 console/bin/Debug/netcoreapp3.0/EPAM task 5.pdb
+/Users/evilsquirrel/RiderProjects/EPAM task 5/EPAM task 5 console/obj/Debug/netcoreapp3.0/EPAM task 5 console.csproj.CopyComplete
+/Users/evilsquirrel/RiderProjects/EPAM task 5/EPAM task 5 console/bin/Debug/netcoreapp3.0/Microsoft.Win32.Registry.dll
+/Users/evilsquirrel/RiderProjects/EPAM task 5/EPAM task 5 console/bin/Debug/netcoreapp3.0/System.Data.SqlClient.dll
+/Users/evilsquirrel/RiderProjects/EPAM task 5/EPAM task 5 console/bin/Debug/netcoreapp3.0/System.Diagnostics.DiagnosticSource.dll
+/Users/evilsquirrel/RiderProjects/EPAM task 5/EPAM task 5 console/bin/Debug/netcoreapp3.0/System.Runtime.CompilerServices.Unsafe.dll
+/Users/evilsquirrel/RiderProjects/EPAM task 5/EPAM task 5 console/bin/Debug/netcoreapp3.0/System.Security.AccessControl.dll
+/Users/evilsquirrel/RiderProjects/EPAM task 5/EPAM task 5 console/bin/Debug/netcoreapp3.0/System.Security.Principal.Windows.dll
+/Users/evilsquirrel/RiderProjects/EPAM task 5/EPAM task 5 console/bin/Debug/netcoreapp3.0/System.Text.Encoding.CodePages.dll
+/Users/evilsquirrel/RiderProjects/EPAM task 5/EPAM task 5 console/bin/Debug/netcoreapp3.0/runtimes/unix/lib/netstandard2.0/Microsoft.Win32.Registry.dll
+/Users/evilsquirrel/RiderProjects/EPAM task 5/EPAM task 5 console/bin/Debug/netcoreapp3.0/runtimes/win/lib/netstandard2.0/Microsoft.Win32.Registry.dll
+/Users/evilsquirrel/RiderProjects/EPAM task 5/EPAM task 5 console/bin/Debug/netcoreapp3.0/runtimes/win-arm64/native/sni.dll
+/Users/evilsquirrel/RiderProjects/EPAM task 5/EPAM task 5 console/bin/Debug/netcoreapp3.0/runtimes/win-x64/native/sni.dll
+/Users/evilsquirrel/RiderProjects/EPAM task 5/EPAM task 5 console/bin/Debug/netcoreapp3.0/runtimes/win-x86/native/sni.dll
+/Users/evilsquirrel/RiderProjects/EPAM task 5/EPAM task 5 console/bin/Debug/netcoreapp3.0/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/Users/evilsquirrel/RiderProjects/EPAM task 5/EPAM task 5 console/bin/Debug/netcoreapp3.0/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/Users/evilsquirrel/RiderProjects/EPAM task 5/EPAM task 5 console/bin/Debug/netcoreapp3.0/runtimes/win/lib/netcoreapp2.0/System.Security.AccessControl.dll
+/Users/evilsquirrel/RiderProjects/EPAM task 5/EPAM task 5 console/bin/Debug/netcoreapp3.0/runtimes/unix/lib/netcoreapp2.1/System.Security.Principal.Windows.dll
+/Users/evilsquirrel/RiderProjects/EPAM task 5/EPAM task 5 console/bin/Debug/netcoreapp3.0/runtimes/win/lib/netcoreapp2.1/System.Security.Principal.Windows.dll
+/Users/evilsquirrel/RiderProjects/EPAM task 5/EPAM task 5 console/bin/Debug/netcoreapp3.0/runtimes/win/lib/netcoreapp2.0/System.Text.Encoding.CodePages.dll
+/Users/evilsquirrel/RiderProjects/EPAM task 5/EPAM task 5 console/bin/Debug/netcoreapp3.0/BouncyCastle.Crypto.dll
+/Users/evilsquirrel/RiderProjects/EPAM task 5/EPAM task 5 console/bin/Debug/netcoreapp3.0/Google.Protobuf.dll
+/Users/evilsquirrel/RiderProjects/EPAM task 5/EPAM task 5 console/bin/Debug/netcoreapp3.0/MySql.Data.dll
+/Users/evilsquirrel/RiderProjects/EPAM task 5/EPAM task 5 console/bin/Debug/netcoreapp3.0/Renci.SshNet.dll
+/Users/evilsquirrel/RiderProjects/EPAM task 5/EPAM task 5 console/bin/Debug/netcoreapp3.0/SshNet.Security.Cryptography.dll
+/Users/evilsquirrel/RiderProjects/EPAM task 5/EPAM task 5 console/bin/Debug/netcoreapp3.0/System.Configuration.ConfigurationManager.dll
+/Users/evilsquirrel/RiderProjects/EPAM task 5/EPAM task 5 console/bin/Debug/netcoreapp3.0/System.Resources.Extensions.dll
+/Users/evilsquirrel/RiderProjects/EPAM task 5/EPAM task 5 console/bin/Debug/netcoreapp3.0/System.Security.Cryptography.ProtectedData.dll
+/Users/evilsquirrel/RiderProjects/EPAM task 5/EPAM task 5 console/bin/Debug/netcoreapp3.0/System.Security.Permissions.dll
+/Users/evilsquirrel/RiderProjects/EPAM task 5/EPAM task 5 console/bin/Debug/netcoreapp3.0/System.Xml.XPath.XmlDocument.dll
+/Users/evilsquirrel/RiderProjects/EPAM task 5/EPAM task 5 console/bin/Debug/netcoreapp3.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll

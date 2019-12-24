@@ -1,0 +1,77 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/evilsquirrel/RiderProjects/EPAM task 5/EPAM task 5/EPAM task 5.csproj": {}
+  },
+  "projects": {
+    "/Users/evilsquirrel/RiderProjects/EPAM task 5/EPAM task 5/EPAM task 5.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/evilsquirrel/RiderProjects/EPAM task 5/EPAM task 5/EPAM task 5.csproj",
+        "projectName": "EPAM task 5",
+        "projectPath": "/Users/evilsquirrel/RiderProjects/EPAM task 5/EPAM task 5/EPAM task 5.csproj",
+        "packagesPath": "/Users/evilsquirrel/.nuget/packages/",
+        "outputPath": "/Users/evilsquirrel/RiderProjects/EPAM task 5/EPAM task 5/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/evilsquirrel/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.Extensions.Configuration.FileExtensions": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.0.18, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.0-preview3.19551.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

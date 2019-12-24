@@ -1,0 +1,8 @@
+/Users/evilsquirrel/RiderProjects/EPAM task 5/EPAM task 5/bin/Debug/netcoreapp3.0/EPAM task 5.deps.json
+/Users/evilsquirrel/RiderProjects/EPAM task 5/EPAM task 5/bin/Debug/netcoreapp3.0/EPAM task 5.dll
+/Users/evilsquirrel/RiderProjects/EPAM task 5/EPAM task 5/bin/Debug/netcoreapp3.0/EPAM task 5.pdb
+/Users/evilsquirrel/RiderProjects/EPAM task 5/EPAM task 5/obj/Debug/netcoreapp3.0/EPAM task 5.csprojAssemblyReference.cache
+/Users/evilsquirrel/RiderProjects/EPAM task 5/EPAM task 5/obj/Debug/netcoreapp3.0/EPAM task 5.AssemblyInfoInputs.cache
+/Users/evilsquirrel/RiderProjects/EPAM task 5/EPAM task 5/obj/Debug/netcoreapp3.0/EPAM task 5.AssemblyInfo.cs
+/Users/evilsquirrel/RiderProjects/EPAM task 5/EPAM task 5/obj/Debug/netcoreapp3.0/EPAM task 5.dll
+/Users/evilsquirrel/RiderProjects/EPAM task 5/EPAM task 5/obj/Debug/netcoreapp3.0/EPAM task 5.pdb
